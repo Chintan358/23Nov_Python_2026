@@ -33,6 +33,25 @@
 # print(type(s))
 
 #boolean : bool
-isExist = True
-print(isExist)
-print(type(isExist))
+# isExist = True
+# print(isExist)
+# print(type(isExist))
+
+
+# Typecasting
+
+# a = 10
+# print(type(a))
+# s = str(a)
+# print(type(s))
+
+# s = "anc"
+# i = int(s)
+
+# k  =False
+# i = int(k)
+# print(i)
+
+# i = 10
+# k = list(i)
+# print(k)
